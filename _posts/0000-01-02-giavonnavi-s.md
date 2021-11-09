@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+> It's never too late for a fresh start. - Dove Chocolates
+<br>Use the left arrow to go back!
